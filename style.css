@@ -1,0 +1,36 @@
+/* font-family: 'Imperial Script', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+.intro > h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.intro > h4{
+    font-family: 'Poppins', sans-serif;
+    color: #495057;
+}
+
+.intro .meet,.intro .description {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #495057;
+}
+
+
+#about > h1,#projects h1,.contact h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.professional-experience > h4, .professional-experience ul li, table{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #495057;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
